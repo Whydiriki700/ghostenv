@@ -1,3 +1,5 @@
+![ghostenv](assets/preview.png)
+
 # ghostenv
 
 Your code reads environment variables your .env.example never mentions. They are ghosts: invisible in review, invisible in docs, and they appear exactly once, at deploy time, as a crash. ghostenv hunts them. Zero dependencies.
